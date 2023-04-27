@@ -7,17 +7,21 @@ In the project directory, you can run:
 
 ### `npm run dev`
 
-To start the app in dev mode.\
+To start the app in fastify-cli dev mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm start`
 
-For production mode
+For fastify-cli production mode
 
 ### `npm run test`
 
-Run the test cases.
+Run fastify-cli the test cases.
 
-## Learn More
+### `node www.js`
 
-To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/docs/latest/).
+To start node javascript
+
+### `pm2 www.js`
+
+To start fastify server by pm2
